@@ -13,3 +13,9 @@ __Créer une base de donner avec phpmyadmin & télécharger wordpress en local p
   - GDPR Cookie Compliance : RGPD.
   
   - Traduction : Gtranslate *(Penser à configurer le plugin pour que le bouton s'affiche sur le site.)*
+
+
+## Le thème :
+  - Blocksy : Avec le template "Modern Shop".
+  - Blocksy child : Pour pouvoir modifier le thème 
+  - Brizy : Un site builder pour pouvoir utiliser Blocksy.
