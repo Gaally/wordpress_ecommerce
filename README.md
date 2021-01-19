@@ -1,7 +1,7 @@
 # Site de E-commerce Wordpress
 
 
-__Créer une base de donner avec phpmyadmin & télécharger wordpress en local.
+__Créer une base de donner avec phpmyadmin & télécharger wordpress en local puis le placer dans le dossier www de WAMP (voir pour MAMP et XAMP).__
 
 
 ## Les plugins :
