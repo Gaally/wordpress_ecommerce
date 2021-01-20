@@ -1,8 +1,12 @@
 # Site de E-commerce Wordpress
 
 
-__Installez WAMP (ou MAMP/XAMP), téléchargez wordpress en local puis placez le dossier dézippé dans le repertoire www et créez une base de données avec phpmyadmin.
-Placez le contenu github dans le dossier wordpress.__
+__Installez WAMP (ou MAMP/XAMP).
+Téléchargez wordpress en local puis placez le dossier dézippé dans le repertoire www.
+Accédez au localhost via WAMP.
+Créez une base de données avec phpmyadmin.
+Retournez sur localhost et cliquez sur votre projet Wordpress pour installer votre site.
+__
 
 
 ## Les plugins :
