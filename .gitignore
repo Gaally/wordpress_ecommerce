@@ -1,7 +1,6 @@
 # ignore everything in the root except the "wp-content" directory and "wp-config" file(s)
 /*
 !wp-content/
-!wp-config*
 
 # include ".htaccess" file
 !.htaccess
