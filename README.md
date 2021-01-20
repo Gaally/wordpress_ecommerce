@@ -6,7 +6,7 @@ Téléchargez wordpress en local puis placez le dossier dézippé dans le repert
 Accédez au localhost via WAMP.
 Créez une base de données avec phpmyadmin.
 Retournez sur localhost et cliquez sur votre projet Wordpress pour installer votre site.
-__
+Remplissez les champs demandés.__
 
 
 ## Les plugins :
