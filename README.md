@@ -13,7 +13,7 @@ Placez le contenu github dans le dossier wordpress.__
   
   - GDPR Cookie Compliance : RGPD.
   
-  - Traduction : Gtranslate *(Penser à configurer le plugin pour que le bouton s'affiche sur le site.)*
+  - Gtranslate : Pour la traduction du site. *(Pensez à configurer le plugin pour que le bouton s'affiche sur le site.)*
 
 
 ## Le thème :
