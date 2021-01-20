@@ -1,7 +1,7 @@
 # Site de E-commerce Wordpress
 
 
-__Créer une base de donner avec phpmyadmin & télécharger wordpress en local puis le placer dans le dossier www de WAMP (voir pour MAMP et XAMP).__
+__Installez WAMP (ou MAMP/XAMP), téléchargez wordpress en local puis placez le dossier dézippé dans le repertoire www et créez une base de données avec phpmyadmin.__
 
 
 ## Les plugins :
@@ -16,6 +16,5 @@ __Créer une base de donner avec phpmyadmin & télécharger wordpress en local p
 
 
 ## Le thème :
-  - Blocksy : Avec le template "Modern Shop".
-  - Blocksy child : Pour pouvoir modifier le thème 
+  - Blocksy : Avec le template "Modern Shop". 
   - Brizy : Un site builder pour pouvoir utiliser Blocksy.
