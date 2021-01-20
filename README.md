@@ -2,10 +2,10 @@
 
 
 __Installez WAMP (ou MAMP/XAMP).
-Téléchargez wordpress en local puis placez le dossier dézippé dans le repertoire www.
-Accédez au localhost via WAMP.
-Créez une base de données avec phpmyadmin.
-Retournez sur localhost et cliquez sur votre projet Wordpress pour installer votre site.
+Téléchargez wordpress en local puis placez le dossier dézippé dans le repertoire www.  
+Accédez au localhost via WAMP.  
+Créez une base de données SQL avec phpmyadmin.  
+Retournez sur localhost et cliquez sur votre projet Wordpress pour installer votre site.  
 Remplissez les champs demandés.__
 
 
